@@ -12,8 +12,7 @@
 
 
 <li>
-  即將發佈
-<!-- <a href=" "> 課堂Slide  </a> -->
+<a href="https://github.com/JC-Project-IDEA/PHASE-2-Student-Workshop/blob/d142841a5351fd6474d463ced035a287cb804ed4/Part%201_Drawing(I)%20-%20Expand!%20Drawing!_compressed.pdf"> 課堂Slide  </a>
 </li>
 
 ## 🎹 DrawSound ｜電・紙樂器 – 用導電墨水將畫作變成電子樂器（觸感聲音互動畫作）  
