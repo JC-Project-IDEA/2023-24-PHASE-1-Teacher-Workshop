@@ -12,8 +12,7 @@
 
 
 <li>
-  教師工作坊課堂筆記
-<!-- <a href=" "> https://github.com/JC-Project-IDEA/2023-24-PHASE-1-Teacher-Workshop/blob/main/JC-IDEA_202324-TeachersWS.pdf  </a> -->
+   <a href="https://github.com/JC-Project-IDEA/2023-24-PHASE-1-Teacher-Workshop/blob/main/JC-IDEA_202324-TeachersWS.pdf"> 教師工作坊課堂筆記 </a>
 </li>
 
 ## 🎹 DrawSound ｜電・紙樂器 – 用導電墨水將畫作變成電子樂器（觸感聲音互動畫作）  
