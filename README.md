@@ -63,25 +63,26 @@
 2. 凸圖機 https://vihorizon.com/index.php?main_page=product_info&products_id=78
 
 3. Electric Paint
+
    https://hkcn.rs-online.com/web/c/?searchTerm=electric+paint
    
    https://www.bareconductive.com/
 
-4. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
+5. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
 
-5. SparkFun 零件 https://www.sparkfun.com/
+6. SparkFun 零件 https://www.sparkfun.com/
 
-6. adafruit 零件 https://www.adafruit.com/
+7. adafruit 零件 https://www.adafruit.com/
 
-7. Arduino https://www.arduino.cc/
+8. Arduino https://www.arduino.cc/
 
-8. Serial MP3 Player Library https://github.com/MajicDesigns/MD_YX5300
+9. Serial MP3 Player Library https://github.com/MajicDesigns/MD_YX5300
 
    Documentation https://majicdesigns.github.io/MD_YX5300/
 
-9. Capacitive Sensing Library https://playground.arduino.cc/Main/CapacitiveSensor/
+10. Capacitive Sensing Library https://playground.arduino.cc/Main/CapacitiveSensor/
 
-10. Seeedstudio (based in Shenzhen) https://www.seeedstudio.com/
+11. Seeedstudio (based in Shenzhen) https://www.seeedstudio.com/
 
 ## 延伸學習
 1. Processing https://processing.org/
