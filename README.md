@@ -42,20 +42,20 @@
 
 3. Free Sound https://freesound.org/
 
-   ID : miuling
+   ID : miuling <br>
    Password : CityUIDEA
 
-5. Internet Archive https://archive.org/details/opensource_audio
+4. Internet Archive https://archive.org/details/opensource_audio
 
-6. Online Midi Editor https://signal.vercel.app/edit
+5. Online Midi Editor https://signal.vercel.app/edit
 
-7. Online Synthesizer https://learningsynths.ableton.com/en/playground
+6. Online Synthesizer https://learningsynths.ableton.com/en/playground
 
-8. Online Bit Maker https://splice.com/sounds/beatmaker/026f92d3afda
+7. Online Bit Maker https://splice.com/sounds/beatmaker/026f92d3afda
 
-9. Dot Piano https://dotpiano.com/mEvKj97M0O0
+8. Dot Piano https://dotpiano.com/mEvKj97M0O0
 
-10. Free Midi https://freemidi.org/
+9. Free Midi https://freemidi.org/
 
 ## 相關連結（器材／資源）
 1. A4 凸圖紙 https://vihorizon.com/index.php?main_page=product_info&cPath=5_11&products_id=23
@@ -63,14 +63,16 @@
 2. 凸圖機 https://vihorizon.com/index.php?main_page=product_info&products_id=78
 
 3. Electric Paint
+   
    https://hkcn.rs-online.com/web/c/?searchTerm=electric+paint
+   
    https://www.bareconductive.com/products/electric-paint?variant=37766230933684
 
-5. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
+4. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
 
-6. SparkFun 零件 https://www.sparkfun.com/
+5. SparkFun 零件 https://www.sparkfun.com/
 
-7. adafruit 零件 https://www.adafruit.com/
+6. adafruit 零件 https://www.adafruit.com/
 
 ## 延伸學習
 1. Processing https://processing.org/
