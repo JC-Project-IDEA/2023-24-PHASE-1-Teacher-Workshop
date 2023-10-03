@@ -67,21 +67,21 @@
    
    https://www.bareconductive.com/
 
-6. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
+4. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
 
-7. SparkFun 零件 https://www.sparkfun.com/
+5. SparkFun 零件 https://www.sparkfun.com/
 
-8. adafruit 零件 https://www.adafruit.com/
+6. adafruit 零件 https://www.adafruit.com/
 
-9. Arduino https://www.arduino.cc/
+7. Arduino https://www.arduino.cc/
 
-10. Serial MP3 Player Library https://github.com/MajicDesigns/MD_YX5300
+8. Serial MP3 Player Library https://github.com/MajicDesigns/MD_YX5300
 
-    Documentation https://majicdesigns.github.io/MD_YX5300/
+   Documentation https://majicdesigns.github.io/MD_YX5300/
 
-11. Capacitive Sensing Library https://playground.arduino.cc/Main/CapacitiveSensor/
+9. Capacitive Sensing Library https://playground.arduino.cc/Main/CapacitiveSensor/
 
-12. Seeedstudio (based in Shenzhen) https://www.seeedstudio.com/
+10. Seeedstudio (based in Shenzhen) https://www.seeedstudio.com/
 
 ## 延伸學習
 1. Processing https://processing.org/
