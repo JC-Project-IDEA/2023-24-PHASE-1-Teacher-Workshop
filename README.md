@@ -62,11 +62,7 @@
 
 2. 凸圖機 https://vihorizon.com/index.php?main_page=product_info&products_id=78
 
-3. Electric Paint
-   
-   https://hkcn.rs-online.com/web/c/?searchTerm=electric+paint
-   
-   https://www.bareconductive.com/products/electric-paint?variant=37766230933684
+3. Electric Paint https://hkcn.rs-online.com/web/c/?searchTerm=electric+paint
 
 4. RS Components 零件 https://hkcn.rs-online.com/web/c/?sra=oss&r=t&searchTerm=arduino
 
